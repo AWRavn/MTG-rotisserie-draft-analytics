@@ -1,6 +1,7 @@
 # MTG-rotisserie-draft-analytics
 
-A subset of data from the available datasets including relative win and loss rations or each deck/player, with 8 players present have been selected. Two of those sets didn't include relative wins but had it available in a separate source, these were added in extras.csv.
+# Data collection and preprocessing
+A subset of data from the available datasets including relative win/loss ratios of each deck/player, with 8 players present have been selected. Two of those files didn't include relative win/loss ratios but had it available in a separate source, these were compiled in extras.csv.
 
-Based on the available information we build a satabase with a following schema:
-![Schema](schema_vrd.PNG)
+Based on the available information we build a database with the following schema:
+![Schema](./figs/schema_vrd.PNG)
