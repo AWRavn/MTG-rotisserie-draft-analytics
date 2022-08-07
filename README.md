@@ -5,3 +5,8 @@ A subset of data from the available datasets including relative win/loss ratios 
 
 Based on the available information we build a database with the following schema:
 ![Schema](./figs/schema_vrd.PNG)
+
+# Sources
+Datasets scavenged from: https://github.com/Hyphen-ated/VRDTools
+Card data fetched from: https://scryfall.com/
+
