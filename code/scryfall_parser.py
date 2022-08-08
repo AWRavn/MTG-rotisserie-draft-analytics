@@ -6,6 +6,7 @@ def get_url():
 	for line in req.json()["data"]:
 		if line["type"] == "default_cards":
 			return line["download_uri"]
+			print(req.line)
 
 def download_data(url):
 
